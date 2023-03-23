@@ -17,7 +17,7 @@ To address UGC Live VQA problems, we first construct a large-scale UGC Live VQA 
 
 The **TaoLive** database contains 2 types of files:
 
-A. Part1-14.zip (Videos)
+A. Part1-18.zip (Videos)
 
 B. TaoLive_label.csv (MOS)
 
